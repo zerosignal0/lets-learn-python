@@ -7,9 +7,9 @@ Make sure you complete the introduction, which is found below before moving onto
 
 # Chapters
 * Introduction - continue reading further down this page **START HERE FIRST!**
-* Chapter 1 - [Hello World!](https://github.com/zerosignal0/lets-learn-python/blob/master/source/Chapter1/README.md)
-* Chapter 2 - [Expressions, Statements and Variables](https://github.com/zerosignal0/lets-learn-python/blob/master/source/Chapter2/README.md)
-* Chapter 3 - [Introduction to data-types](https://github.com/zerosignal0/lets-learn-python/blob/master/source/Chapter3/README.md)
+* Chapter 1 - [Hello World!](https://github.com/zerosignal0/lets-learn-python/tree/master/source/chapter1)
+* Chapter 2 - [Expressions, Statements and Variables](https://github.com/zerosignal0/lets-learn-python/tree/master/source/chapter2)
+* Chapter 3 - [Introduction to data-types](https://github.com/zerosignal0/lets-learn-python/tree/master/source/chapter3)
 
 
 # Introduction
@@ -71,4 +71,4 @@ Hello, World!
 ```
 
 If you see the above then you have successfully installed Python, congratulations! :smile: 
-We will now move onto Chapter1, which can be found **[here](https://github.com/zerosignal0/lets-learn-python/blob/master/source/Chapter1/README.md)**, have fun!
+We will now move onto Chapter1, which can be found **[here](https://github.com/zerosignal0/lets-learn-python/tree/master/source/chapter1)**, have fun!
