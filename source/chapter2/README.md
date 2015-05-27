@@ -139,4 +139,4 @@ A variable is something that holds a value that may change. In simplest terms, a
 
 More examples of variables can be found [here](https://docs.python.org/3.4/tutorial/introduction.html)
 
-Now that you have completed chapter2, you are ready to move onto **[chapter3](https://github.com/zerosignal0/lets-learn-python/tree/master/source/Chapter3/README.md)**
+Now that you have completed chapter2, you are ready to move onto **[chapter3](https://github.com/zerosignal0/lets-learn-python/blob/master/source/Chapter3/README.md)**

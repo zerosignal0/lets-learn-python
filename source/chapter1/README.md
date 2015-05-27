@@ -101,6 +101,6 @@ Hello, World!
 
 Congratulations, you have written your first python based application and have now learned the difference between interactive / non-interactive execution of python applications.
 
-To see a working example of hello_world.py, please see the source directory for chapter1, which can be found **[here](https://github.com/zerosignal0/lets-learn-python/tree/master/source/chapter1/hello_world.py)**.
+To see a working example of hello_world.py, please see the source directory for chapter1, which can be found **[here](https://github.com/zerosignal0/lets-learn-python/blob/master/source/Chapter1/hello_world.py)**.
 
-Now that you have completed chapter1, you are ready to move onto **[chapter2](https://github.com/zerosignal0/lets-learn-python/tree/master/source/Chapter2/README.md)**
+Now that you have completed chapter1, you are ready to move onto **[chapter2](https://github.com/zerosignal0/lets-learn-python/blob/master/source/Chapter2/README.md)**

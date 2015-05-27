@@ -277,4 +277,4 @@ This is an introduction to the dictionary data type.  We will not go into full d
 
 This is an introduction to the tuple data type.  We will not go into full details about EVERYTHING tuples have available, as these will be covered in future chapters.
 
-Now that you have completed chapter3, you are ready to move onto **[chapter4](https://github.com/zerosignal0/lets-learn-python/tree/master/source/Chapter4/README.md)**
+Now that you have completed chapter3, you are ready to move onto **[chapter4](https://github.com/zerosignal0/lets-learn-python/blob/master/source/Chapter4/README.md)**
